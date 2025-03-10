@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1741384466.57056 "c:/Users/marvi/Desktop/codes/resume/resume.tex" "resume.pdf" "resume" 1741384469.53933 0
+["pdflatex"] 1741597263.82711 "c:/Users/marvi/Desktop/codes/resume/resume.tex" "resume.pdf" "resume" 1741597266.18635 0
   "C:/Users/marvi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741384413 83609 ebbc432e6cbbb238d39535255db2c8bd ""
   "C:/Users/marvi/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1740033415 12017795 62517c865d026250e959492d9c1c05c0 ""
   "C:/Users/marvi/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -109,9 +109,9 @@
   "C:/Users/marvi/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1730400552 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/marvi/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/marvi/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/marvi/Desktop/codes/resume/resume.tex" 1741384461 13188 788ced4b631a5d79072ad10a260a6cf1 ""
-  "resume.aux" 1741384468 1888 b035b5d71e94ae577c2f51dcd51c6630 "pdflatex"
-  "resume.tex" 1741384461 13188 788ced4b631a5d79072ad10a260a6cf1 ""
+  "c:/Users/marvi/Desktop/codes/resume/resume.tex" 1741597260 12913 af4e95223d88eb205fe4a8c7d8e50cf9 ""
+  "resume.aux" 1741597265 1888 e41b7bbab91cf801ff7f1a1c49d41b0c "pdflatex"
+  "resume.tex" 1741597260 12913 af4e95223d88eb205fe4a8c7d8e50cf9 ""
   (generated)
   "resume.aux"
   "resume.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.20)  7 MAR 2025 21:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.2.20)  10 MAR 2025 09:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -493,9 +493,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 160.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 226.
+(Font)              <9> on input line 224.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 226.
+(Font)              <6> on input line 224.
 
 
 [1
@@ -506,7 +506,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.381 \end{document}
+l.369 \end{document}
                      [2] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 
@@ -523,13 +523,13 @@ L3 programming layer <2025-01-18>
 Here is how much of TeX's memory you used:
  15490 strings out of 473530
  264278 string characters out of 5714794
- 683244 words of memory out of 5000000
+ 684244 words of memory out of 5000000
  38508 multiletter control sequences out of 15000+600000
  591350 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,387b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,387b,661s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/marvi/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/marvi/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/marvi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/marvi/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy9.pfb>
-Output written on resume.pdf (2 pages, 53910 bytes).
+Output written on resume.pdf (2 pages, 53693 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
